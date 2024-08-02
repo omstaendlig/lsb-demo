@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+body {
+    font-size: 1.2rem;
+    background-color: #222;
+    color: #ddd;
+}
+
+fieldset {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    padding: 5px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#rgb {
+    text-align: center;
+    padding: 5px;
+    display: block;
+}
+
+#pixel {
+    height: 300px;
+    width: 300px;
+    border: 1px solid #000;
+    background: rgb(255, 255, 255);
+    margin: 20px auto;
+}
